@@ -49,9 +49,7 @@
 
     </dependencies>
          
-    <properties>
-         <maven.compiler.release>17</maven.compiler.release>
-    </properties>
+
     <build>
 
         <finalName>spring-boot-web</finalName>
